@@ -1,6 +1,6 @@
 from array import array
 polynomial = 0xEDB88320
-table = array('L')
+table = []
 for byte in range(256):
     crc = 0
     for bit in range(8):
