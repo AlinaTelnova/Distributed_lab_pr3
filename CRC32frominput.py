@@ -1,4 +1,3 @@
-import binascii
 from array import array
 polynomial = 0xEDB88320
 table = array('L')
