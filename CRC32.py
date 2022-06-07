@@ -1,4 +1,3 @@
-from array import array
 polynomial = 0xEDB88320
 table = []
 for byte in range(256):
